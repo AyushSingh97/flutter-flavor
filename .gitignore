@@ -84,3 +84,8 @@ app.*.map.json
 /.gradle/vcs-1/gc.properties
 /.gradle/6.8/fileChanges/last-build.bin
 /.gradle/6.8/gc.properties
+/lib/firebase_options.dart
+/ios/Runner/GoogleService-Info.plist
+/android/app/google-services.json
+/ios/firebase_app_id_file.json
+/ios/Podfile
